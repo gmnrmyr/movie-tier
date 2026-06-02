@@ -1,0 +1,1636 @@
+[
+  {
+    "id": "tt0289043",
+    "title": "Extermínio",
+    "year": 2002,
+    "type": "movie",
+    "genres": [
+      "Terror",
+      "Ficção Científica"
+    ],
+    "imdbRating": 7.5,
+    "yourRating": 10,
+    "tier": "S"
+  },
+  {
+    "id": "tt6499752",
+    "title": "Upgrade",
+    "year": 2018,
+    "type": "movie",
+    "genres": [
+      "Ação",
+      "Ficção Científica"
+    ],
+    "imdbRating": 7.5,
+    "yourRating": 9,
+    "tier": "A"
+  },
+  {
+    "id": "tt3443522",
+    "title": "Mushishi Zoku Shou",
+    "year": 2014,
+    "type": "series",
+    "genres": [
+      "Animação",
+      "Drama",
+      "Fantasia"
+    ],
+    "imdbRating": 8.8,
+    "yourRating": 10,
+    "tier": "S"
+  },
+  {
+    "id": "tt0807832",
+    "title": "Mushishi",
+    "year": 2005,
+    "type": "series",
+    "genres": [
+      "Animação",
+      "Drama",
+      "Fantasia"
+    ],
+    "imdbRating": 8.5,
+    "yourRating": 10,
+    "tier": "S"
+  },
+  {
+    "id": "tt0877057",
+    "title": "Death Note",
+    "year": 2006,
+    "type": "series",
+    "genres": [
+      "Animação",
+      "Policial",
+      "Suspense"
+    ],
+    "imdbRating": 8.9,
+    "yourRating": 6,
+    "tier": "C"
+  },
+  {
+    "id": "tt0816692",
+    "title": "Interestelar",
+    "year": 2014,
+    "type": "movie",
+    "genres": [
+      "Ficção Científica",
+      "Drama"
+    ],
+    "imdbRating": 8.7,
+    "tier": "maybe"
+  },
+  {
+    "id": "tt0066921",
+    "title": "Laranja Mecânica",
+    "year": 1971,
+    "type": "movie",
+    "genres": [
+      "Policial",
+      "Ficção Científica"
+    ],
+    "imdbRating": 8.2,
+    "tier": "maybe"
+  },
+  {
+    "id": "tt0079944",
+    "title": "Stalker",
+    "year": 1979,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Ficção Científica"
+    ],
+    "imdbRating": 8,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0060107",
+    "title": "Andrei Rublev",
+    "year": 1966,
+    "type": "movie",
+    "genres": [
+      "Biografia",
+      "Drama",
+      "História"
+    ],
+    "imdbRating": 8,
+    "tier": "maybe"
+  },
+  {
+    "id": "tt1663202",
+    "title": "O Regresso",
+    "year": 2015,
+    "type": "movie",
+    "genres": [
+      "Ação",
+      "Drama"
+    ],
+    "imdbRating": 8,
+    "tier": "maybe"
+  },
+  {
+    "id": "tt3659388",
+    "title": "Perdido em Marte",
+    "year": 2015,
+    "type": "movie",
+    "genres": [
+      "Aventura",
+      "Ficção Científica"
+    ],
+    "imdbRating": 8,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0114746",
+    "title": "Os 12 Macacos",
+    "year": 1995,
+    "type": "movie",
+    "genres": [
+      "Ficção Científica",
+      "Suspense"
+    ],
+    "imdbRating": 8,
+    "tier": "maybe"
+  },
+  {
+    "id": "tt0088763",
+    "title": "De Volta para o Futuro",
+    "year": 1985,
+    "type": "movie",
+    "genres": [
+      "Comédia",
+      "Ficção Científica"
+    ],
+    "imdbRating": 8.5,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0069293",
+    "title": "Solaris",
+    "year": 1972,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Ficção Científica"
+    ],
+    "imdbRating": 7.9,
+    "tier": "maybe"
+  },
+  {
+    "id": "tt0113568",
+    "title": "Ghost in the Shell",
+    "year": 1995,
+    "type": "movie",
+    "genres": [
+      "Animação",
+      "Ficção Científica"
+    ],
+    "imdbRating": 7.9,
+    "tier": "maybe"
+  },
+  {
+    "id": "tt0379786",
+    "title": "Serenity",
+    "year": 2005,
+    "type": "movie",
+    "genres": [
+      "Ação",
+      "Ficção Científica"
+    ],
+    "imdbRating": 7.8,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0275277",
+    "title": "Cowboy Bebop: O Filme",
+    "year": 2001,
+    "type": "movie",
+    "genres": [
+      "Animação",
+      "Ação",
+      "Ficção Científica"
+    ],
+    "imdbRating": 7.8,
+    "tier": "maybe"
+  },
+  {
+    "id": "tt0470752",
+    "title": "Ex Machina",
+    "year": 2014,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Ficção Científica"
+    ],
+    "imdbRating": 7.7,
+    "tier": "S"
+  },
+  {
+    "id": "tt0119177",
+    "title": "Gattaca",
+    "year": 1997,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Ficção Científica"
+    ],
+    "imdbRating": 7.7,
+    "tier": "maybe"
+  },
+  {
+    "id": "tt1276104",
+    "title": "Looper",
+    "year": 2012,
+    "type": "movie",
+    "genres": [
+      "Ação",
+      "Ficção Científica"
+    ],
+    "imdbRating": 7.4,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt5715874",
+    "title": "O Sacrifício do Cervo Sagrado",
+    "year": 2017,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Terror",
+      "Suspense"
+    ],
+    "imdbRating": 7,
+    "tier": "S"
+  },
+  {
+    "id": "tt1483013",
+    "title": "Oblivion",
+    "year": 2013,
+    "type": "movie",
+    "genres": [
+      "Ficção Científica",
+      "Ação"
+    ],
+    "imdbRating": 7,
+    "tier": "maybe"
+  },
+  {
+    "id": "tt0433035",
+    "title": "Gigantes de Aço",
+    "year": 2011,
+    "type": "movie",
+    "genres": [
+      "Ação",
+      "Ficção Científica"
+    ],
+    "imdbRating": 7.1,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt3778644",
+    "title": "Han Solo",
+    "year": 2018,
+    "type": "movie",
+    "genres": [
+      "Ação",
+      "Ficção Científica"
+    ],
+    "imdbRating": 6.9,
+    "tier": "maybe"
+  },
+  {
+    "id": "tt4695012",
+    "title": "Ao Cair da Noite",
+    "year": 2017,
+    "type": "movie",
+    "genres": [
+      "Terror",
+      "Ficção Científica"
+    ],
+    "imdbRating": 6.1,
+    "tier": "skip"
+  },
+  {
+    "id": "tt2527338",
+    "title": "Star Wars: A Ascensão Skywalker",
+    "year": 2019,
+    "type": "movie",
+    "genres": [
+      "Ficção Científica",
+      "Ação"
+    ],
+    "imdbRating": 6.3,
+    "tier": "maybe"
+  },
+  {
+    "id": "tt2131532",
+    "title": "Escondidos",
+    "year": 2015,
+    "type": "movie",
+    "genres": [
+      "Terror",
+      "Ficção Científica"
+    ],
+    "imdbRating": 6.4,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt3860916",
+    "title": "Cargo",
+    "year": 2017,
+    "type": "movie",
+    "genres": [
+      "Terror",
+      "Drama"
+    ],
+    "imdbRating": 6.3,
+    "tier": "C"
+  },
+  {
+    "id": "tt2309961",
+    "title": "Infectado",
+    "year": 2013,
+    "type": "movie",
+    "genres": [
+      "Terror",
+      "Ficção Científica"
+    ],
+    "imdbRating": 6.2,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt2071550",
+    "title": "Tumba Aberta",
+    "year": 2013,
+    "type": "movie",
+    "genres": [
+      "Terror",
+      "Mistério"
+    ],
+    "imdbRating": 6.1,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt5068650",
+    "title": "Fitas Macabras",
+    "year": 2016,
+    "type": "movie",
+    "genres": [
+      "Terror",
+      "Ficção Científica"
+    ],
+    "imdbRating": 4.6,
+    "tier": "skip"
+  },
+  {
+    "id": "tt10548174",
+    "title": "Extermínio: A Evolução",
+    "year": 2025,
+    "type": "movie",
+    "genres": [
+      "Terror",
+      "Ficção Científica"
+    ],
+    "imdbRating": 6.6,
+    "tier": "B"
+  },
+  {
+    "id": "tt5158314",
+    "title": "Detroit: Become Human",
+    "year": 2018,
+    "type": "game",
+    "genres": [
+      "Ficção Científica",
+      "Drama"
+    ],
+    "imdbRating": 9.1,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0303461",
+    "title": "Firefly",
+    "year": 2002,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Aventura"
+    ],
+    "imdbRating": 8.9,
+    "tier": "skip"
+  },
+  {
+    "id": "tt0052520",
+    "title": "Além da Imaginação",
+    "year": 1959,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Terror",
+      "Drama"
+    ],
+    "imdbRating": 9,
+    "tier": "watchlist"
+  },
+  {
+    "id": "tt2560140",
+    "title": "Ataque dos Titãs",
+    "year": 2013,
+    "type": "series",
+    "genres": [
+      "Animação",
+      "Ação",
+      "Drama"
+    ],
+    "imdbRating": 9.1,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt1355642",
+    "title": "FMA: Brotherhood",
+    "year": 2009,
+    "type": "series",
+    "genres": [
+      "Animação",
+      "Ação",
+      "Aventura"
+    ],
+    "imdbRating": 9.1,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0407362",
+    "title": "Battlestar Galactica",
+    "year": 2004,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Drama"
+    ],
+    "imdbRating": 8.7,
+    "tier": "maybe"
+  },
+  {
+    "id": "tt0421357",
+    "title": "Fullmetal Alchemist",
+    "year": 2003,
+    "type": "series",
+    "genres": [
+      "Animação",
+      "Ação",
+      "Aventura"
+    ],
+    "imdbRating": 8.5,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0213338",
+    "title": "Cowboy Bebop",
+    "year": 1998,
+    "type": "series",
+    "genres": [
+      "Animação",
+      "Ação",
+      "Ficção Científica"
+    ],
+    "imdbRating": 8.9,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0487831",
+    "title": "The IT Crowd",
+    "year": 2006,
+    "type": "series",
+    "genres": [
+      "Comédia"
+    ],
+    "imdbRating": 8.5,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0118480",
+    "title": "Stargate SG-1",
+    "year": 1997,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Aventura"
+    ],
+    "imdbRating": 8.4,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt1119644",
+    "title": "Fringe",
+    "year": 2008,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Suspense"
+    ],
+    "imdbRating": 8.4,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0423731",
+    "title": "Samurai Champloo",
+    "year": 2004,
+    "type": "series",
+    "genres": [
+      "Animação",
+      "Ação",
+      "Aventura"
+    ],
+    "imdbRating": 8.5,
+    "tier": "S"
+  },
+  {
+    "id": "tt3230854",
+    "title": "The Expanse",
+    "year": 2015,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Drama"
+    ],
+    "imdbRating": 8.5,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0374455",
+    "title": "Stargate: Atlantis",
+    "year": 2004,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Aventura"
+    ],
+    "imdbRating": 8.2,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt2431438",
+    "title": "Sense8",
+    "year": 2015,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Drama"
+    ],
+    "imdbRating": 8.2,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt5114356",
+    "title": "Legião",
+    "year": 2017,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Ação"
+    ],
+    "imdbRating": 8.1,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt1520211",
+    "title": "The Walking Dead",
+    "year": 2010,
+    "type": "series",
+    "genres": [
+      "Terror",
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "tier": "A"
+  },
+  {
+    "id": "tt5691552",
+    "title": "The Orville",
+    "year": 2017,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Comédia"
+    ],
+    "imdbRating": 8,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt4635282",
+    "title": "The OA",
+    "year": 2016,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Drama",
+      "Mistério"
+    ],
+    "imdbRating": 7.8,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt5180504",
+    "title": "The Witcher",
+    "year": 2019,
+    "type": "series",
+    "genres": [
+      "Fantasia",
+      "Ação",
+      "Drama"
+    ],
+    "imdbRating": 7.8,
+    "tier": "B"
+  },
+  {
+    "id": "tt1740299",
+    "title": "O Homem do Castelo Alto",
+    "year": 2015,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Drama"
+    ],
+    "imdbRating": 7.9,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt4122068",
+    "title": "Humans",
+    "year": 2015,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Drama"
+    ],
+    "imdbRating": 7.9,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt1286039",
+    "title": "Stargate Universe",
+    "year": 2009,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Drama"
+    ],
+    "imdbRating": 7.6,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt4159076",
+    "title": "Dark Matter",
+    "year": 2015,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Mistério"
+    ],
+    "imdbRating": 7.5,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt4209256",
+    "title": "Colony",
+    "year": 2016,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Drama"
+    ],
+    "imdbRating": 7.3,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0389564",
+    "title": "Os 4400",
+    "year": 2004,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Mistério"
+    ],
+    "imdbRating": 7.3,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt4192782",
+    "title": "Glitch",
+    "year": 2015,
+    "type": "series",
+    "genres": [
+      "Drama",
+      "Ficção Científica"
+    ],
+    "imdbRating": 7.2,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt6461824",
+    "title": "Entre Dois Mundos",
+    "year": 2018,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Drama"
+    ],
+    "imdbRating": 7.1,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt3743822",
+    "title": "Fear the Walking Dead",
+    "year": 2015,
+    "type": "series",
+    "genres": [
+      "Terror",
+      "Drama"
+    ],
+    "imdbRating": 6.8,
+    "tier": "B"
+  },
+  {
+    "id": "tt3905852",
+    "title": "Ancient Black Ops",
+    "year": 2014,
+    "type": "series",
+    "genres": [
+      "História",
+      "Drama"
+    ],
+    "imdbRating": 6.3,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt4643084",
+    "title": "Counterpart",
+    "year": 2017,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Suspense"
+    ],
+    "imdbRating": 8,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0111161",
+    "title": "Um Sonho de Liberdade",
+    "year": 1994,
+    "type": "movie",
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 9.3,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0068646",
+    "title": "O Poderoso Chefão",
+    "year": 1972,
+    "type": "movie",
+    "genres": [
+      "Policial",
+      "Drama"
+    ],
+    "imdbRating": 9.2,
+    "tier": "S"
+  },
+  {
+    "id": "tt0071562",
+    "title": "O Poderoso Chefão II",
+    "year": 1974,
+    "type": "movie",
+    "genres": [
+      "Policial",
+      "Drama"
+    ],
+    "imdbRating": 9,
+    "tier": "S"
+  },
+  {
+    "id": "tt0108052",
+    "title": "A Lista de Schindler",
+    "year": 1993,
+    "type": "movie",
+    "genres": [
+      "Biografia",
+      "Drama",
+      "História"
+    ],
+    "imdbRating": 9,
+    "tier": "S"
+  },
+  {
+    "id": "tt0110912",
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "type": "movie",
+    "genres": [
+      "Policial",
+      "Drama"
+    ],
+    "imdbRating": 8.9,
+    "tier": "S"
+  },
+  {
+    "id": "tt0137523",
+    "title": "Clube da Luta",
+    "year": 1999,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ],
+    "imdbRating": 8.8,
+    "tier": "A"
+  },
+  {
+    "id": "tt0109830",
+    "title": "Forrest Gump",
+    "year": 1994,
+    "type": "movie",
+    "genres": [
+      "Comédia",
+      "Drama"
+    ],
+    "imdbRating": 8.8,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0133093",
+    "title": "Matrix",
+    "year": 1999,
+    "type": "movie",
+    "genres": [
+      "Ficção Científica",
+      "Ação"
+    ],
+    "imdbRating": 8.7,
+    "tier": "S"
+  },
+  {
+    "id": "tt0099685",
+    "title": "Os Bons Companheiros",
+    "year": 1990,
+    "type": "movie",
+    "genres": [
+      "Policial",
+      "Drama"
+    ],
+    "imdbRating": 8.7,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0317248",
+    "title": "Cidade de Deus",
+    "year": 2002,
+    "type": "movie",
+    "genres": [
+      "Policial",
+      "Drama"
+    ],
+    "imdbRating": 8.6,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0090605",
+    "title": "Aliens",
+    "year": 1986,
+    "type": "movie",
+    "genres": [
+      "Ficção Científica",
+      "Ação",
+      "Terror"
+    ],
+    "imdbRating": 8.4,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0081505",
+    "title": "O Iluminado",
+    "year": 1980,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Terror"
+    ],
+    "imdbRating": 8.4,
+    "tier": "S"
+  },
+  {
+    "id": "tt0078748",
+    "title": "Alien",
+    "year": 1979,
+    "type": "movie",
+    "genres": [
+      "Ficção Científica",
+      "Terror"
+    ],
+    "imdbRating": 8.5,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0082971",
+    "title": "Indiana Jones",
+    "year": 1981,
+    "type": "movie",
+    "genres": [
+      "Ação",
+      "Aventura"
+    ],
+    "imdbRating": 8.4,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0103064",
+    "title": "Exterminador do Futuro 2",
+    "year": 1991,
+    "type": "movie",
+    "genres": [
+      "Ficção Científica",
+      "Ação"
+    ],
+    "imdbRating": 8.6,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0482571",
+    "title": "O Grande Truque",
+    "year": 2006,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Mistério",
+      "Ficção Científica"
+    ],
+    "imdbRating": 8.5,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt2582802",
+    "title": "Whiplash",
+    "year": 2014,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Música"
+    ],
+    "imdbRating": 8.5,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt6751668",
+    "title": "Parasita",
+    "year": 2019,
+    "type": "movie",
+    "genres": [
+      "Comédia",
+      "Drama",
+      "Suspense"
+    ],
+    "imdbRating": 8.5,
+    "tier": "A"
+  },
+  {
+    "id": "tt0083658",
+    "title": "Blade Runner",
+    "year": 1982,
+    "type": "movie",
+    "genres": [
+      "Ficção Científica",
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "tier": "S"
+  },
+  {
+    "id": "tt0084787",
+    "title": "A Coisa",
+    "year": 1982,
+    "type": "movie",
+    "genres": [
+      "Ficção Científica",
+      "Terror"
+    ],
+    "imdbRating": 8.1,
+    "tier": "A"
+  },
+  {
+    "id": "tt0088247",
+    "title": "O Exterminador do Futuro",
+    "year": 1984,
+    "type": "movie",
+    "genres": [
+      "Ficção Científica",
+      "Ação"
+    ],
+    "imdbRating": 8.1,
+    "tier": "A"
+  },
+  {
+    "id": "tt0062622",
+    "title": "2001: Uma Odisseia no Espaço",
+    "year": 1968,
+    "type": "movie",
+    "genres": [
+      "Ficção Científica",
+      "Aventura"
+    ],
+    "imdbRating": 8.3,
+    "tier": "S"
+  },
+  {
+    "id": "tt1856101",
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "type": "movie",
+    "genres": [
+      "Ficção Científica",
+      "Drama"
+    ],
+    "imdbRating": 8,
+    "tier": "A"
+  },
+  {
+    "id": "tt2543164",
+    "title": "A Chegada",
+    "year": 2016,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Ficção Científica",
+      "Mistério"
+    ],
+    "imdbRating": 7.9,
+    "tier": "A"
+  },
+  {
+    "id": "tt1182345",
+    "title": "Moon",
+    "year": 2009,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Ficção Científica"
+    ],
+    "imdbRating": 7.9,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt1136608",
+    "title": "Distrito 9",
+    "year": 2009,
+    "type": "movie",
+    "genres": [
+      "Ficção Científica",
+      "Ação"
+    ],
+    "imdbRating": 7.9,
+    "tier": "A"
+  },
+  {
+    "id": "tt0814255",
+    "title": "Filhos da Esperança",
+    "year": 2006,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Ficção Científica"
+    ],
+    "imdbRating": 7.9,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt8579674",
+    "title": "1917",
+    "year": 2019,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Guerra"
+    ],
+    "imdbRating": 8.3,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt5052448",
+    "title": "Corra!",
+    "year": 2017,
+    "type": "movie",
+    "genres": [
+      "Terror",
+      "Mistério",
+      "Suspense"
+    ],
+    "imdbRating": 7.7,
+    "tier": "A"
+  },
+  {
+    "id": "tt6644200",
+    "title": "Um Lugar Silencioso",
+    "year": 2018,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Terror",
+      "Ficção Científica"
+    ],
+    "imdbRating": 7.5,
+    "tier": "A"
+  },
+  {
+    "id": "tt7784604",
+    "title": "Hereditário",
+    "year": 2018,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Terror",
+      "Mistério"
+    ],
+    "imdbRating": 7.3,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt1160419",
+    "title": "Duna",
+    "year": 2021,
+    "type": "movie",
+    "genres": [
+      "Ficção Científica",
+      "Aventura"
+    ],
+    "imdbRating": 8,
+    "tier": "S"
+  },
+  {
+    "id": "tt15239678",
+    "title": "Duna: Parte Dois",
+    "year": 2024,
+    "type": "movie",
+    "genres": [
+      "Ficção Científica",
+      "Aventura"
+    ],
+    "imdbRating": 8.5,
+    "tier": "A"
+  },
+  {
+    "id": "tt0167260",
+    "title": "O Senhor dos Anéis: O Retorno do Rei",
+    "year": 2003,
+    "type": "movie",
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Fantasia"
+    ],
+    "imdbRating": 9,
+    "tier": "S"
+  },
+  {
+    "id": "tt0120737",
+    "title": "O Senhor dos Anéis: A Sociedade do Anel",
+    "year": 2001,
+    "type": "movie",
+    "genres": [
+      "Aventura",
+      "Fantasia"
+    ],
+    "imdbRating": 8.9,
+    "tier": "S"
+  },
+  {
+    "id": "tt0167261",
+    "title": "O Senhor dos Anéis: As Duas Torres",
+    "year": 2002,
+    "type": "movie",
+    "genres": [
+      "Aventura",
+      "Fantasia"
+    ],
+    "imdbRating": 8.8,
+    "tier": "S"
+  },
+  {
+    "id": "tt11639952",
+    "title": "From",
+    "year": 2022,
+    "type": "series",
+    "genres": [
+      "Drama",
+      "Terror",
+      "Ficção Científica"
+    ],
+    "imdbRating": 7.7,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0411008",
+    "title": "Lost",
+    "year": 2004,
+    "type": "series",
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Fantasia",
+      "Mistério"
+    ],
+    "imdbRating": 8.3,
+    "tier": "S"
+  },
+  {
+    "id": "tt2699128",
+    "title": "The Leftovers",
+    "year": 2014,
+    "type": "series",
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Mistério"
+    ],
+    "imdbRating": 8.3,
+    "tier": "S"
+  },
+  {
+    "id": "tt7660850",
+    "title": "Succession",
+    "year": 2018,
+    "type": "series",
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.9,
+    "tier": "S"
+  },
+  {
+    "id": "tt8772296",
+    "title": "Euphoria",
+    "year": 2019,
+    "type": "series",
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.4,
+    "tier": "S"
+  },
+  {
+    "id": "tt0903747",
+    "title": "Breaking Bad",
+    "year": 2008,
+    "type": "series",
+    "genres": [
+      "Policial",
+      "Drama",
+      "Suspense"
+    ],
+    "imdbRating": 9.5,
+    "tier": "S"
+  },
+  {
+    "id": "tt3032476",
+    "title": "Better Call Saul",
+    "year": 2015,
+    "type": "series",
+    "genres": [
+      "Policial",
+      "Drama"
+    ],
+    "imdbRating": 9,
+    "tier": "S"
+  },
+  {
+    "id": "tt0306414",
+    "title": "The Wire",
+    "year": 2002,
+    "type": "series",
+    "genres": [
+      "Policial",
+      "Drama"
+    ],
+    "imdbRating": 9.3,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0141842",
+    "title": "Família Soprano",
+    "year": 1999,
+    "type": "series",
+    "genres": [
+      "Policial",
+      "Drama"
+    ],
+    "imdbRating": 9.2,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0944947",
+    "title": "Game of Thrones",
+    "year": 2011,
+    "type": "series",
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Fantasia"
+    ],
+    "imdbRating": 9.2,
+    "tier": "S"
+  },
+  {
+    "id": "tt7366338",
+    "title": "Chernobyl",
+    "year": 2019,
+    "type": "series",
+    "genres": [
+      "Drama",
+      "História",
+      "Suspense"
+    ],
+    "imdbRating": 9.4,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt2356777",
+    "title": "True Detective",
+    "year": 2014,
+    "type": "series",
+    "genres": [
+      "Policial",
+      "Drama",
+      "Mistério"
+    ],
+    "imdbRating": 9,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt5753856",
+    "title": "Dark",
+    "year": 2017,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Drama",
+      "Mistério"
+    ],
+    "imdbRating": 8.8,
+    "tier": "S"
+  },
+  {
+    "id": "tt2085059",
+    "title": "Black Mirror",
+    "year": 2011,
+    "type": "series",
+    "genres": [
+      "Drama",
+      "Ficção Científica",
+      "Suspense"
+    ],
+    "imdbRating": 8.7,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt4574334",
+    "title": "Stranger Things",
+    "year": 2016,
+    "type": "series",
+    "genres": [
+      "Drama",
+      "Ficção Científica",
+      "Terror"
+    ],
+    "imdbRating": 8.7,
+    "tier": "A"
+  },
+  {
+    "id": "tt1190634",
+    "title": "The Boys",
+    "year": 2019,
+    "type": "series",
+    "genres": [
+      "Ação",
+      "Comédia",
+      "Ficção Científica"
+    ],
+    "imdbRating": 8.7,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt11280740",
+    "title": "Severance",
+    "year": 2022,
+    "type": "series",
+    "genres": [
+      "Drama",
+      "Ficção Científica",
+      "Suspense"
+    ],
+    "imdbRating": 8.7,
+    "tier": "S"
+  },
+  {
+    "id": "tt0475784",
+    "title": "Westworld",
+    "year": 2016,
+    "type": "series",
+    "genres": [
+      "Drama",
+      "Ficção Científica",
+      "Suspense"
+    ],
+    "imdbRating": 8.6,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt2802850",
+    "title": "Fargo",
+    "year": 2014,
+    "type": "series",
+    "genres": [
+      "Policial",
+      "Drama"
+    ],
+    "imdbRating": 8.9,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt2442560",
+    "title": "Peaky Blinders",
+    "year": 2013,
+    "type": "series",
+    "genres": [
+      "Policial",
+      "Drama"
+    ],
+    "imdbRating": 8.8,
+    "tier": "A"
+  },
+  {
+    "id": "tt5290382",
+    "title": "Mindhunter",
+    "year": 2017,
+    "type": "series",
+    "genres": [
+      "Policial",
+      "Drama",
+      "Suspense"
+    ],
+    "imdbRating": 8.6,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt5348176",
+    "title": "Barry",
+    "year": 2018,
+    "type": "series",
+    "genres": [
+      "Comédia",
+      "Policial",
+      "Drama"
+    ],
+    "imdbRating": 8.4,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt5720306",
+    "title": "Ozark",
+    "year": 2017,
+    "type": "series",
+    "genres": [
+      "Policial",
+      "Drama",
+      "Suspense"
+    ],
+    "imdbRating": 8.4,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt2149175",
+    "title": "The Americans",
+    "year": 2013,
+    "type": "series",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ],
+    "imdbRating": 8.4,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt3581920",
+    "title": "The Last of Us",
+    "year": 2023,
+    "type": "series",
+    "genres": [
+      "Drama",
+      "Terror",
+      "Ficção Científica"
+    ],
+    "imdbRating": 8.8,
+    "tier": "S"
+  },
+  {
+    "id": "tt11198330",
+    "title": "House of the Dragon",
+    "year": 2022,
+    "type": "series",
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Fantasia"
+    ],
+    "imdbRating": 8.4,
+    "tier": "A"
+  },
+  {
+    "id": "tt9253284",
+    "title": "Andor",
+    "year": 2022,
+    "type": "series",
+    "genres": [
+      "Ficção Científica",
+      "Drama",
+      "Ação"
+    ],
+    "imdbRating": 8.4,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt10919420",
+    "title": "Round 6",
+    "year": 2021,
+    "type": "series",
+    "genres": [
+      "Drama",
+      "Ficção Científica",
+      "Suspense"
+    ],
+    "imdbRating": 8,
+    "tier": "A"
+  },
+  {
+    "id": "tt11041332",
+    "title": "Yellowjackets",
+    "year": 2021,
+    "type": "series",
+    "genres": [
+      "Drama",
+      "Terror",
+      "Mistério"
+    ],
+    "imdbRating": 7.8,
+    "tier": "B"
+  },
+  {
+    "id": "tt6741278",
+    "title": "Invincible",
+    "year": 2021,
+    "type": "series",
+    "genres": [
+      "Animação",
+      "Ação",
+      "Drama"
+    ],
+    "imdbRating": 8.8,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt10574236",
+    "title": "Station Eleven",
+    "year": 2021,
+    "type": "series",
+    "genres": [
+      "Drama",
+      "Ficção Científica"
+    ],
+    "imdbRating": 8,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt0185906",
+    "title": "Band of Brothers",
+    "year": 2001,
+    "type": "series",
+    "genres": [
+      "Drama",
+      "Guerra",
+      "História"
+    ],
+    "imdbRating": 9.5,
+    "tier": "unranked"
+  },
+  {
+    "id": "tt7200088",
+    "title": "Kingdom",
+    "year": 2019,
+    "type": "series",
+    "genres": [
+      "Ação",
+      "Drama",
+      "Terror",
+      "História"
+    ],
+    "imdbRating": 8.3,
+    "tier": "unranked"
+  }
+]

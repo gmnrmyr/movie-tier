@@ -31,14 +31,23 @@ export function useMediaStore() {
     setItems(prev => prev.map(item => item.id === itemId ? { ...item, tier } : item));
   };
 
-  const exportJSON = () => {
-    const blob = new Blob([JSON.stringify(items, null, 2)], { type: 'application/json' });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = 'movie-tier.json';
-    a.click();
-    URL.revokeObjectURL(url);
+  const exportJSON = async () => {
+    try {
+      await fetch('http://localhost:3001/save', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(items),
+      });
+    } catch {
+      // fallback: download se o servidor não estiver rodando
+      const blob = new Blob([JSON.stringify(items, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'movie-tier.json';
+      a.click();
+      URL.revokeObjectURL(url);
+    }
   };
 
   const reset = () => {
