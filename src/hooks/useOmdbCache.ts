@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 
-const API_KEY = 'd0b37a2b';
+const API_KEY = import.meta.env.VITE_OMDB_API_KEY as string;
 const CACHE_KEY = 'movie-tier-omdb';
 
 export interface OmdbData {
