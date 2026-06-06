@@ -12,7 +12,7 @@ import type { Tier, MediaType } from './types';
 type Tab = 'movie' | 'series';
 
 export default function App() {
-  const { items, moveTo, exportJSON, reset } = useMediaStore();
+  const { items, moveTo, reset } = useMediaStore();
   const [activeTab, setActiveTab] = useState<Tab>('movie');
   const [draggingId, setDraggingId] = useState<string | null>(null);
 
@@ -63,12 +63,9 @@ export default function App() {
             </p>
           </div>
           <div className="flex gap-2">
-            <button
-              onClick={exportJSON}
-              className="px-3 py-1.5 text-xs rounded-lg bg-white/5 hover:bg-white/10 border border-white/10 transition-colors"
-            >
-              Export JSON
-            </button>
+            <span className="px-3 py-1.5 text-xs self-center text-zinc-500 select-none">
+              ✓ salva sozinho
+            </span>
             <button
               onClick={reset}
               className="px-3 py-1.5 text-xs rounded-lg bg-white/5 hover:bg-white/10 border border-white/10 text-zinc-500 transition-colors"
