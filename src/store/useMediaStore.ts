@@ -3,8 +3,11 @@ import type { MediaItem, Tier } from '../types';
 import { INITIAL_DATA } from '../data/initialData';
 
 const STORAGE_KEY = 'movie-tier-data';
-const SAVE_URL = 'http://localhost:3001/save';
-const DATA_URL = 'http://localhost:3001/data';
+// usa o MESMO host que serviu a página (localhost no Mac, IP do homelab no celular)
+// — o save server (server.cjs) escuta em 0.0.0.0:3001 com CORS
+const API_HOST = `http://${location.hostname}:3001`;
+const SAVE_URL = `${API_HOST}/save`;
+const DATA_URL = `${API_HOST}/data`;
 
 // garante que filmes novos do INITIAL_DATA apareçam mesmo em dados salvos antigos
 function merge(base: MediaItem[]): MediaItem[] {
